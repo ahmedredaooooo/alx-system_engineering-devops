@@ -1,1 +1,1 @@
-initializing my repo
+Learning Shell
